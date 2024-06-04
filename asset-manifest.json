@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AdeyinkaAdelua/Myportfolio/static/css/main.2a572c4b.css",
-    "main.js": "/AdeyinkaAdelua/Myportfolio/static/js/main.be7a4436.js",
-    "static/media/BookBreeze.png": "/AdeyinkaAdelua/Myportfolio/static/media/BookBreeze.5b72120ce68c53709e46.png",
-    "static/media/L.jpg": "/AdeyinkaAdelua/Myportfolio/static/media/L.5e06b6fc07e308d3e4ab.jpg",
-    "static/media/SheSaidIt.png": "/AdeyinkaAdelua/Myportfolio/static/media/SheSaidIt.4cc531271260466d9132.png",
-    "static/media/Quiz.png": "/AdeyinkaAdelua/Myportfolio/static/media/Quiz.cf42870903609c6fc3b3.png",
-    "static/media/FutureHope.png": "/AdeyinkaAdelua/Myportfolio/static/media/FutureHope.df6e5473dcc4c048d3ac.png",
-    "static/media/SimpleTask.png": "/AdeyinkaAdelua/Myportfolio/static/media/SimpleTask.2204b54d3d27eb7160fb.png",
-    "static/media/tictactoe.png": "/AdeyinkaAdelua/Myportfolio/static/media/tictactoe.a91a1a7d901b38f7feb9.png",
-    "index.html": "/AdeyinkaAdelua/Myportfolio/index.html",
-    "main.2a572c4b.css.map": "/AdeyinkaAdelua/Myportfolio/static/css/main.2a572c4b.css.map",
-    "main.be7a4436.js.map": "/AdeyinkaAdelua/Myportfolio/static/js/main.be7a4436.js.map"
+    "main.css": "/Myportfolio/static/css/main.2a572c4b.css",
+    "main.js": "/Myportfolio/static/js/main.78b33ed6.js",
+    "static/media/BookBreeze.png": "/Myportfolio/static/media/BookBreeze.5b72120ce68c53709e46.png",
+    "static/media/L.jpg": "/Myportfolio/static/media/L.5e06b6fc07e308d3e4ab.jpg",
+    "static/media/SheSaidIt.png": "/Myportfolio/static/media/SheSaidIt.4cc531271260466d9132.png",
+    "static/media/Quiz.png": "/Myportfolio/static/media/Quiz.cf42870903609c6fc3b3.png",
+    "static/media/FutureHope.png": "/Myportfolio/static/media/FutureHope.df6e5473dcc4c048d3ac.png",
+    "static/media/SimpleTask.png": "/Myportfolio/static/media/SimpleTask.2204b54d3d27eb7160fb.png",
+    "static/media/tictactoe.png": "/Myportfolio/static/media/tictactoe.a91a1a7d901b38f7feb9.png",
+    "index.html": "/Myportfolio/index.html",
+    "main.2a572c4b.css.map": "/Myportfolio/static/css/main.2a572c4b.css.map",
+    "main.78b33ed6.js.map": "/Myportfolio/static/js/main.78b33ed6.js.map"
   },
   "entrypoints": [
     "static/css/main.2a572c4b.css",
-    "static/js/main.be7a4436.js"
+    "static/js/main.78b33ed6.js"
   ]
 }
