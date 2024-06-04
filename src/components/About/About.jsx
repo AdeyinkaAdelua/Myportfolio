@@ -23,7 +23,7 @@ const About = () => {
     <section id='about'>
       <h5 data-aos="fade-up" data-aos-anchor="#about"  data-aos-duration='900'>Unlock the mysteries of me</h5>
       <h2 data-aos="fade-up" data-aos-anchor="#about"  data-aos-duration='700'>About me</h2>
-
+{/* 
       <div className="container about__container">
       <div className="stage-cube-cont" data-aos="fade-right" data-aos-anchor=".about__container"  data-aos-duration="500">
           <div className="cubespinner">
@@ -46,24 +46,25 @@ const About = () => {
               <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
             </div>
           </div>
-        </div>
-
+        </div> */}
+     
         <div className="about__content">
            <p  data-aos="fade-up" data-aos-anchor=".about__content"  data-aos-duration="1000">
-           I am a passionate front-end developer on the brink of graduating in May 2024. I have a deep love for frontend development, and my journey in the tech world has equipped me with a robust technical background.
-            </p>
+            Welcome to my developer portfolio! I'm a passionate full-stack developer who recently graduated in May 2024 and is eagerly seeking full-time opportunities to contribute my skills and expertise to innovative projects.
+           </p>
 
-            <p>
-              When I'm not immersed in code, you'll find me indulging in my hobbies, such as crocheting and exploring the world of books. I am not just a developer; I am a creative enthusiast who enjoys playing various games, including crosswords, sudoku, word games, and even mastering the Rubik's Cube.
-            </p>
+           <p>
+             My journey into the world of software development began with a curiosity to understand how technology shapes our world and a drive to create meaningful solutions. Throughout my education, I've honed my skills in both front-end and back-end development, ensuring that I can bring a holistic approach to any project I undertake.
+           </p>
 
-            <p >
-              Beyond coding, my diverse set of interests and hobbies reflects my multifaceted personality. I am proud of my Nigerian heritage, and it adds a unique perspective to my work and interactions. I approach challenges with determination and focus, making sure to excel in whatever I set my mind to. This mindset, coupled with my technical skills, positions me as a highly employable and adaptable individual.
-            </p>
+           <p >
+             Beyond coding, I have a diverse range of interests that keep me balanced and inspired. When I'm not immersed in lines of code, you'll often find me indulging in my love for crochet, creating intricate patterns and designs that mirror the creativity and attention to detail I bring to my development projects. Additionally, I'm an avid reader, constantly seeking new knowledge and perspectives to broaden my understanding of the world.
+           </p>
 
            <a href='#contact' className='btn btn-primary' data-aos="fade-up" data-aos-anchor=".about__content"  data-aos-duration="1200">Let's chat <FaTelegramPlane/></a>
         </div>
-      </div>
+
+
     </section>
   )
 }

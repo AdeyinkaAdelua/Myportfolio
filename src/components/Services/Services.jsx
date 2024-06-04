@@ -15,7 +15,7 @@ const Services = () => {
           <div className="service__head">
             <h3>Technology Apprentice </h3>
             <h3>NAB Leadership Foundation</h3>
-            <h4 style={{ marginLeft: '40px' }}>  Oct 2023 - Present</h4>
+            <h4 style={{ marginLeft: '40px' }}>  Oct 2023 -   April 2024</h4>
           </div>
 
           <ul className="service__list">
@@ -46,7 +46,7 @@ const Services = () => {
           <div className="service__head">
           <h3>Software engineer Intern </h3>
             <h3>Greentree Capital</h3>
-            <h4 style={{ marginLeft: '40px' }}>  Aug 2023 - Present</h4>
+            <h4 style={{ marginLeft: '40px' }}>  Aug 2023 - April 2024</h4>
           </div>
 
           <ul className="service__list">

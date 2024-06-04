@@ -113,7 +113,7 @@
 
 .about__content p{
     margin: 1rem 0 1.6rem;
-    color: white;
+    color: #001021;
 }
 
 /* Media Queries (Tablets ) */
@@ -168,3 +168,11 @@
   }
 
  }
+ #about {
+  text-align:left; // Aligns the text content to the center
+}
+
+.about__content {
+  max-width: 900px;
+  margin: 0 auto; // Centers the content horizontally within its container
+}
