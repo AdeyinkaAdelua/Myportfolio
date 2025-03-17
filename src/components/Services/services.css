@@ -1,13 +1,16 @@
 .services__container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
+    gap: 6rem;
 }
 
+
+
+
 .service{
-    background: var(--color-bg-variant);
+    background: #000000;
     border-radius: 0 0 2rem 2rem;
-    border: 1px solid var(--color-primary);
+    border: 1px solid #D90368;
     height: fit-content;
     transition: vat(--transition);
 }
@@ -19,7 +22,7 @@
 }
 
 .service__head{
-    background: var(--color-primary);
+    background: #D90368 ;
     padding: 2rem;
     border-radius: 0 0 2rem 2rem;
     box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);

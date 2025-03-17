@@ -33,7 +33,7 @@ header {
     content: '';
     width: 1px;
     height: 2rem;
-    background: var(--color-primary);
+    background: var(--color-primary-variant);
 }
 
 /* ========================== ME ========================== */
@@ -42,6 +42,8 @@ header {
     height: 30rem;
     position: absolute;
     left: calc(50% - 15rem);
+    display: flex;
+    justify-content: center; /* Centers horizontally */
     margin-top: 4rem;
    
 }
@@ -103,6 +105,10 @@ header {
 }
 
 .logo-image {
-    border: 2px solid   #001021; /* Change the color and width as needed */
+    border: 2px solid   #D90368; /* Change the color and width as needed */
     border-radius: 10px; /* Optional: Add border-radius for rounded corners */
+    width: 150%; /* Adjust the percentage to make it smaller or bigger */
+    height: 100%; /* Keeps the aspect ratio intact */
+    object-fit: cover; /* Ensures the image doesn't get stretched */
+    
   }

@@ -84,29 +84,29 @@ const Experience = () => {
                 </div>
               </article>
 
-              {/* MongoDB  */}
+              {/* Express.js */}
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon"/>
                 <div>
-                <h4>MongoDB</h4>
+                <h4>Express.js</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
               </article>
 
-              {/* Java  */}
+              {/*PHP */}
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon"/>
                 <div>
-                <h4>Java</h4>
+                <h4>PHP</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
               </article>
               
-              {/* MySQL  */}
+              {/* RESTful APIs  */}
               <article className="experience__details">
                 <BsPatchCheckFill className="experience__details-icon"/>
                 <div>
-                <h4>MySQL</h4>
+                <h4>RESTful APIs</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
               </article>
@@ -114,6 +114,102 @@ const Experience = () => {
             
             </div>
         </div>
+
+
+        <div className="experence__cloud" data-aos="fade-left" data-aos-anchor=".experience__container"  data-aos-duration="1200">
+           <h3>Database Management</h3>
+            <div className="experience__content">
+              {/* SQL (MySQL, PostgreSQL)  */}
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>SQL (MySQL, PostgreSQL) </h4>
+                <small className='text-light'>Experienced</small>
+                </div>
+              </article>
+
+              {/* NoSQL (MongoDB, Firebase) */}
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>NoSQL (MongoDB, Firebase)</h4>
+                <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+
+              {/* Database Design  */}
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>Database Design</h4>
+                <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+              
+              {/* Data Security */}
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>Data Security</h4>
+                <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+
+            
+            </div>
+        </div>
+
+
+
+
+        <div className="experence__data" data-aos="fade-left" data-aos-anchor=".experience__container"  data-aos-duration="1200">
+           <h3>Data Analysis & Visualization</h3>
+            <div className="experience__content">
+              {/* Python (Pandas, NumPy)  */}
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>Python (Pandas, NumPy) </h4>
+                <small className='text-light'>Experienced</small>
+                </div>
+              </article>
+
+               {/* Excel (Pivot Tables, VLOOKUP)  */}
+               <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>Excel (Pivot Tables, VLOOKUP) </h4>
+                <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+
+              {/* R   */}
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>R </h4>
+                <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+
+             
+              
+              {/* Data Visualization (Matplotlib, Tableau, Power BI)  */}
+              <article className="experience__details">
+                <BsPatchCheckFill className="experience__details-icon"/>
+                <div>
+                <h4>Data Visualization (Matplotlib, Tableau, Power BI)</h4>
+                <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+
+            
+            </div>
+        </div>
+
+
+
+
       </div>
     </section>
   )

@@ -68,8 +68,21 @@ const Header = () => {
     return () => clearTimeout(timeoutId);
   }, []);
 
+    <div className="logo">
+          <img
+            className="logo-image"
+            data-aos="slide-up"
+            data-aos-anchor=".logo"
+            data-aos-duration="1400"
+            src={Logo}
+            alt="me"
+  
+          />
+        </div>
+
   return (
     <header>
+      
       <article className="container header__container">
         <h5
           data-aos="fade-up"
@@ -115,6 +128,7 @@ const Header = () => {
             data-aos-duration="1400"
             src={Logo}
             alt="me"
+  
           />
         </div>
 

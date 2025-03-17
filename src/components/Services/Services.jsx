@@ -13,40 +13,40 @@ const Services = () => {
         <article className="service" data-aos="fade-right" data-aos-anchor=".services__container"  data-aos-duration="900">
 
           <div className="service__head">
-            <h3>Technology Apprentice </h3>
-            <h3>NAB Leadership Foundation</h3>
-            <h4 style={{ marginLeft: '40px' }}>  Oct 2023 -   April 2024</h4>
+            <h3>Web Developer </h3>
+            <h3>Beachley Medical</h3>
+            <h4 style={{ marginLeft: '90px' }}>  September 2024 - Present</h4>
           </div>
 
           <ul className="service__list">
              <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Participated in workshops and training sessions to enhance skills in areas such as broadcast engineering, signal processing, and multimedia production.</p>
+                <p>Oversaw various e-commerce operations, including creating apparel items, updating shipping records, and managing user profiles across multiple platforms.</p>
              </li>
              <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Stayed abreast of industry standards and best practices, incorporating the latest advancements in technology to optimize broadcasting processes.</p>
+                <p>Developed and maintained online catalogs and websites, leveraging expertise in HTML, CSS, and advanced e-commerce tools.</p>
              </li>
              <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Facilitated knowledge-sharing sessions within the team, fostering a culture of continuous learning and skill development.</p>
+                <p>Created and edited visual assets using Adobe Illustrator, Photoshop, and Acrobat to enhance product presentations and marketing materials.</p>
              </li>
              <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Actively engaged in troubleshooting and problem-solving activities to address technical challenges in broadcasting operations.</p>
+                <p>Streamlined workflows by implementing catalog groupings, user profile updates, and new website creation to improve customer experience.</p>
              </li>
              
           </ul>
         </article>
 
-        {/* END OF UI/UX */}
+        {/* WEB DEVELOPER */}
 
         <article className="service" data-aos="fade-up" data-aos-anchor=".services__container"  data-aos-duration="1200">
 
           <div className="service__head">
           <h3>Software engineer Intern </h3>
             <h3>Greentree Capital</h3>
-            <h4 style={{ marginLeft: '40px' }}>  Aug 2023 - April 2024</h4>
+            <h4 style={{ marginLeft: '95px' }}>  August 2023 - April 2024</h4>
           </div>
 
           <ul className="service__list">
@@ -74,7 +74,7 @@ const Services = () => {
           </ul>
         </article>
 
-        {/* End of web development  */}
+        {/* SOFTWARE ENGINEER INTERN */}
 
 
         <article className="service" data-aos="fade-left" data-aos-anchor=".services__container"  data-aos-duration="900">
@@ -82,7 +82,7 @@ const Services = () => {
           <div className="service__head">
           <h3>Computer Inventory Technician </h3>
             <h3>Daly Computers</h3>
-            <h4 style={{ marginLeft: '40px' }}>  June 2023  - Aug  2023</h4>
+            <h4 style={{ marginLeft: '90px' }}>  June 2023  - August  2023</h4>
           </div>
 
           <ul className="service__list">
@@ -110,7 +110,12 @@ const Services = () => {
             </ul>
           </article>
 
-          {/* End of digital marketting  */}
+
+
+          {/* COMPUTER INVENTORY TECH */}
+
+
+
 
 
 

@@ -1,13 +1,16 @@
 .experience__container{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    border-color: var(--color-primary-variant);
     gap: 2rem;
+
 }
 
 .experience__container > div{
-    background: var(--color-bg-variant);
+
     padding: 2.4rem 5rem;
     border-radius: 2rem;
+    border-color: var(--color-primary-variant);
     border: 1px solid transparent;
     transition: var(--transition);
 }
@@ -21,13 +24,17 @@
 .experience__container > div h3{
     text-align: center;
     margin-bottom: 2rem;
-    color: var(--color-primary);
+    color: var(--color-primary-variant);
 }
+
+
+
 
 .experience__content{
     display: grid;
     grid-template-columns: 1fr 1fr;
     row-gap: 2rem;
+    
 }
 
 .experience__details{
@@ -37,7 +44,7 @@
 
 .experience__details-icon{
     margin-top:6px;
-    color: var(--color-primary);
+    color: var(--color-primary-variant);
 }
 
 

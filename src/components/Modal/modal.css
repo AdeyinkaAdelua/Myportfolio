@@ -20,7 +20,7 @@
 }
 
 .modal-content {
-    background-color: var(--color-bg);
+    background-color:#D90368;
     padding: 20px;
     border-radius: 2rem;
     width: 40%;
@@ -29,7 +29,7 @@
 .modal-close__button{
     width: 30px;
     font-size: 20px;
-    color: #c0c5cb;
+    color: #D90368;
     align-self: flex-end;
     background-color: transparent;
     border: none;
@@ -39,7 +39,7 @@
 }
 
 .modal-close__button:hover{
-  color: var(--color-primary);
+  color: #D90368;
   transition: var(--transition);
 }
 
@@ -61,7 +61,7 @@
 }
 .modal-description{
   text-align: center;
-  color: var(--color-light);
+  color:#D90368;
   font-size: "0.5rem"
 }
 
