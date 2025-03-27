@@ -4,7 +4,7 @@
       color: #000;
     }
     100% {
-      color: #ff7f50;
+      color: #D90368;
     }
   }
 
@@ -28,6 +28,19 @@
     transform: scale(1.08);
 }
 
+
+.portfolio__item-image img {
+    width: 100%;  /* Make the image fill the container */
+    height: auto; /* Keep the aspect ratio intact */
+    max-width: 400px;  /* Set a max width to make them consistent */
+    max-height: 250px;  /* Set a max height to maintain consistency */
+    border-radius: 20px;
+
+  }
+  
+  
+
+
 .portfolio__item-image{
     border-radius: 1.5rem;
     overflow: hidden;
@@ -35,8 +48,10 @@
 
 .portfolio__item-name:hover{
      animation: colorChange 0.5s ease-in;
-     color: #ff7f50;
+     color: #D90368;
 }
+
+
 
 .portfolio__item h3{
     cursor: pointer;
@@ -53,6 +68,9 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+
+
+
 
 
  /* Media Queries (Tablets ) */

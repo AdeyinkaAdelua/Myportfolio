@@ -101,11 +101,12 @@
  }
 
  .btn:hover{
-    background: var(--color-white);
-    color: var(--color-bg);
-    border-color: transparent;
+   background: transparent;
+   color: #ffffff;
+   border-color: #D90368;
  }
  
+
  .btn-primary{
    background: var(--color-primary);
    color: var(--color-bg);
